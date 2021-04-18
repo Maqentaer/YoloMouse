@@ -1,3 +1,9 @@
+This is the latest FREE version of YOLO mouse before it became non free.
+
+You can download a build from releases or create your own.. you can also redistribute and sell like YOLO mouse author did you can call it NON YOLO  I guess.
+
+In any case this is free... :) 
+
 Users
 -------------------------------------------------------------------------------
 Please visit https://pandateemo.github.io/YoloMouse/
